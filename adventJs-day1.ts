@@ -25,14 +25,15 @@ console.log(firstRepeatedId3) // 5
 Watch out! The elves say this is a Google technical test.
 
 */
-
+//En el peor de los casos recorremos todo el array de gifts original complejidad O(n) siendo n el numero de elementos que hay en la lista
 function findFirstRepeated(gifts) {
-    const seen = {}
-  
-    for(const id of gifts){
-      if(seen[id]) return id;
-      seen[id] = true;
+  const seen = new Set();
+  for (const gift of gifts) {
+    if (seen.has(gift)) {
+      return gift;
     }
-  
-    return -1;
+    seen.add(gift);
   }
+
+  return -1; // Si no se encuentra nigun repetido
+}
