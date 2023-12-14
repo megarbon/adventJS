@@ -1,7 +1,10 @@
-# adventJS
+# adventJS 2023 🎅🎄🌟
 
 Calendario de adviento de problemas de programación en JavaScript (o TS) organizado por [@midudev](https://github.com/midudev).
 Puedes jugar tu también aqui: [AdventJs](https://adventjs.dev/)
+
+[![logo.png](https://pbs.twimg.com/media/GAL4ebTWEAEs8In?format=jpg&name=4096x4096)]
+
 
 | Día | Problema                     | Estado | Puntuación | Complejidad |
 | --- | ---------------------------- | ------ | ---------- | ----------- |
