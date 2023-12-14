@@ -3,7 +3,7 @@
 Calendario de adviento de problemas de programación en JavaScript (o TS) organizado por [@midudev](https://github.com/midudev).
 Puedes jugar tu también aqui: [AdventJs](https://adventjs.dev/)
 
-[![clogo.png](https://raw.githubusercontent.com/marta-vilaseca/adventjs-2023/main/logo.png)](https://raw.githubusercontent.com/marta-vilaseca/adventjs-2023/main/logo.png)
+[![logo.png](https://pbs.twimg.com/media/GAL4ebTWEAEs8In?format=jpg&name=4096x4096)]
 
 
 | Día | Problema                     | Estado | Puntuación | Complejidad |
